@@ -1,5 +1,5 @@
 # rfid
-rfid projects
+check branches for different rfid projects
 
 requires Miguel Balboa's MFRC522 rfid library
 
